@@ -1,3 +1,4 @@
 i have working on git
 hello
-new extra class 
+why we like linux os   
+why every people work
